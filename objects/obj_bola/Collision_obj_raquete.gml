@@ -8,4 +8,4 @@ move_bounce_all(true);
 
 speed = speed + 0.1;
 
-audio_play_sound(snd_Som_da_bola_2, 1, false);
+audio_play_sound(snd_Som_da_bola_2, 1, 0);
