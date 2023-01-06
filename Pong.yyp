@@ -8,8 +8,12 @@
     {"id":{"name":"obj_raquete2","path":"objects/obj_raquete2/obj_raquete2.yy",},"order":2,},
     {"id":{"name":"spr_bola","path":"sprites/spr_bola/spr_bola.yy",},"order":1,},
     {"id":{"name":"spr_raquete","path":"sprites/spr_raquete/spr_raquete.yy",},"order":0,},
+    {"id":{"name":"scr_inicia","path":"scripts/scr_inicia/scr_inicia.yy",},"order":0,},
+    {"id":{"name":"spr_gol","path":"sprites/spr_gol/spr_gol.yy",},"order":6,},
+    {"id":{"name":"obj_pontos","path":"objects/obj_pontos/obj_pontos.yy",},"order":5,},
     {"id":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},"order":1,},
     {"id":{"name":"Fundo","path":"sprites/Fundo/Fundo.yy",},"order":3,},
+    {"id":{"name":"obj_gol","path":"objects/obj_gol/obj_gol.yy",},"order":4,},
     {"id":{"name":"obj_colisor","path":"objects/obj_colisor/obj_colisor.yy",},"order":3,},
     {"id":{"name":"spr_rosto","path":"sprites/spr_rosto/spr_rosto.yy",},"order":2,},
     {"id":{"name":"spr_colisor","path":"sprites/spr_colisor/spr_colisor.yy",},"order":5,},
@@ -19,9 +23,9 @@
     {"id":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},"order":0,},
   ],
   "Options": [
-    {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
     {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
   ],
   "defaultScriptType": 1,
   "isEcma": false,
@@ -56,6 +60,6 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.11.1.56",
+    "IDEVersion": "2022.11.0.54",
   },
 }

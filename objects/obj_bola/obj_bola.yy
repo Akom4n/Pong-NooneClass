@@ -31,6 +31,7 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_colisor","path":"objects/obj_colisor/obj_colisor.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_raquete","path":"objects/obj_raquete/obj_raquete.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_raquete2","path":"objects/obj_raquete2/obj_raquete2.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_gol","path":"objects/obj_gol/obj_gol.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],

@@ -8,26 +8,29 @@ if(y > 64) {
 	if(up) {
 		y += -vel_y;
 		//Tirando o automatico
-		automatico = false;
+		global.dois_jogadores = true;
+		}
 	}
-}
 
-if (y < 297){
-	if(down) {
-		y += +vel_y;
-		//Tirando o automatico
-		automatico = false;
+
+	if (y < 296){
+		if(down) {
+			y += +vel_y;
+			//Tirando o automatico
+			global.dois_jogadores = true;
+		}
 	}
-}
 
-if (automatico == true) {
+
+
+if (global.dois_jogadores == false) {
 	
-	y = lerp(y, obj_bola.y, 0.05);
+	y = lerp(y, obj_bola.y, 0.03);
 		
 }
 
-if (y > 297){
-	y = 297;
+if (y > 296){
+	y = 296;
 }
 if(y < 64) {
 	y = 64;
