@@ -7,7 +7,9 @@
     {"id":{"name":"snd_Som_da_bola_1","path":"sounds/snd_Som_da_bola_1/snd_Som_da_bola_1.yy",},"order":0,},
     {"id":{"name":"obj_raquete2","path":"objects/obj_raquete2/obj_raquete2.yy",},"order":2,},
     {"id":{"name":"spr_bola","path":"sprites/spr_bola/spr_bola.yy",},"order":1,},
+    {"id":{"name":"obj_jogar","path":"objects/obj_jogar/obj_jogar.yy",},"order":6,},
     {"id":{"name":"spr_raquete","path":"sprites/spr_raquete/spr_raquete.yy",},"order":0,},
+    {"id":{"name":"obj_modo","path":"objects/obj_modo/obj_modo.yy",},"order":7,},
     {"id":{"name":"scr_inicia","path":"scripts/scr_inicia/scr_inicia.yy",},"order":0,},
     {"id":{"name":"spr_gol","path":"sprites/spr_gol/spr_gol.yy",},"order":6,},
     {"id":{"name":"obj_pontos","path":"objects/obj_pontos/obj_pontos.yy",},"order":5,},
@@ -19,6 +21,7 @@
     {"id":{"name":"spr_colisor","path":"sprites/spr_colisor/spr_colisor.yy",},"order":5,},
     {"id":{"name":"snd_Som_da_bola_2","path":"sounds/snd_Som_da_bola_2/snd_Som_da_bola_2.yy",},"order":2,},
     {"id":{"name":"obj_raquete","path":"objects/obj_raquete/obj_raquete.yy",},"order":0,},
+    {"id":{"name":"rm_inicio","path":"rooms/rm_inicio/rm_inicio.yy",},"order":1,},
     {"id":{"name":"snd_Musica_de_fundo","path":"sounds/snd_Musica_de_fundo/snd_Musica_de_fundo.yy",},"order":1,},
     {"id":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},"order":0,},
   ],
@@ -35,6 +38,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
+    {"roomId":{"name":"rm_inicio","path":"rooms/rm_inicio/rm_inicio.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
