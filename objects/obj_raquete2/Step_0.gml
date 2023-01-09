@@ -22,11 +22,12 @@ if(y > 64) {
 	}
 
 
+if !instance_exists(obj_bola) {
+	global.dois_jogadores = true;
+}
 
 if (global.dois_jogadores == false) {
-	
-	y = lerp(y, obj_bola.y, 0.03);
-		
+	y = lerp(y, obj_bola.y, 0.03);	
 }
 
 if (y > 296){
