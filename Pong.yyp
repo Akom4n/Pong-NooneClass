@@ -10,6 +10,8 @@
     {"id":{"name":"obj_jogar","path":"objects/obj_jogar/obj_jogar.yy",},"order":6,},
     {"id":{"name":"spr_raquete","path":"sprites/spr_raquete/spr_raquete.yy",},"order":0,},
     {"id":{"name":"obj_modo","path":"objects/obj_modo/obj_modo.yy",},"order":7,},
+    {"id":{"name":"spr_modo","path":"sprites/spr_modo/spr_modo.yy",},"order":8,},
+    {"id":{"name":"spr_jogar","path":"sprites/spr_jogar/spr_jogar.yy",},"order":7,},
     {"id":{"name":"scr_inicia","path":"scripts/scr_inicia/scr_inicia.yy",},"order":0,},
     {"id":{"name":"spr_gol","path":"sprites/spr_gol/spr_gol.yy",},"order":6,},
     {"id":{"name":"obj_pontos","path":"objects/obj_pontos/obj_pontos.yy",},"order":5,},
@@ -26,9 +28,9 @@
     {"id":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},"order":0,},
   ],
   "Options": [
-    {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
   ],
   "defaultScriptType": 1,
   "isEcma": false,
@@ -64,6 +66,6 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.11.0.54",
+    "IDEVersion": "2022.11.1.56",
   },
 }

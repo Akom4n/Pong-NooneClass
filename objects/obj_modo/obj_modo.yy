@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_modo",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_modo",
+    "path": "sprites/spr_modo/spr_modo.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
