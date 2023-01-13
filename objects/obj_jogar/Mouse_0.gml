@@ -1,14 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-/*
-if (x < -32) {
-	game_restart();	
+if room_exists(room_next(room)){
+	room_goto(rm_partida);
 }
-
-if( x > 672) {
-	game_restart();
-}
-*/
-
 

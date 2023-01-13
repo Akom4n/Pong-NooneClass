@@ -1,14 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-/*
-if (x < -32) {
-	game_restart();	
-}
+//fazendo ele ir para segunda imagem 
+image_index = 1;
 
-if( x > 672) {
-	game_restart();
-}
-*/
+
 
 

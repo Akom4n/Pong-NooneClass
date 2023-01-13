@@ -1,5 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-draw_text(x - 23, y - 10, "JOGAR");
+//mudando o frame para 1 quando o mouse sair
+image_index = 0;
+
+
+
 
